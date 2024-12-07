@@ -14,3 +14,5 @@ módulos incluídos:
 3. rarfile
 4. tarfile
 5. zipfile
+
+Concluindo, este script tem apenas a função de leitura de arquivos compremidos.
