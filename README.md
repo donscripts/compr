@@ -1,6 +1,10 @@
 # compr ( Compremidos )
 
-Este script, serve apenas para visualização de arquivos compremidos, tendo suporte para:
+Este script, serve apenas para 
+#Objetivo:
+1. visualização de arquivos compremidos
+
+#Suporte de arquivos:
 1. .zip
 2. .tar
 3. .rar
