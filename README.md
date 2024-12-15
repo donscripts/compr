@@ -1,4 +1,4 @@
-<img src="img.png" alt='imagem de capa' style="width:90%;">
+<img src="img.png" alt='imagem de capa' style="width:80%; height: 80%;">
 
 # compr ( Compremidos )
 
