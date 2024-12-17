@@ -2,10 +2,11 @@
 
 # compr ( Compremidos )
 
-# Objetivo:
+### Objetivo:
 1. visualização de arquivos compremidos
 
 # *compr.exe*:
+*compr.exe* é a primeira versão
 ### Suporte de arquivos:
 1. .zip
 2. .tar
