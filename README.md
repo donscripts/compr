@@ -5,12 +5,13 @@
 # Objetivo:
 1. visualização de arquivos compremidos
 
-# Suporte de arquivos:
+# *compr.exe*:
+## Suporte de arquivos:
 1. .zip
 2. .tar
 3. .rar
 
-# módulos usados:
+## módulos usados:
 1. os
 2. sys
 3. rarfile
